@@ -60,13 +60,30 @@ export default class About extends Component {
                 </div>
               </div>
               <div className="col-md-4 text-center animate-box">
-                <div className="services color-3">
+                <div className="services color-2">
                   <span className="icon">
                     <i className="icon-phone3" />
                   </span>
                   <div className="desc">
-                    <h3>Languages</h3>
-                    <p>I have experience in C, Python, JavaScript, Bash</p>
+                    <h3>Languages & Operating System</h3>
+                    <p>
+                      I have experience in C, Python, JavaScript, Bash and also
+                      have good experience in Linux(Ubuntu) and windows 10
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <div className="col-md-4 text-center animate-box">
+                <div className="services color-3">
+                  <span className="icon">
+                    <i className="icon-layers2" />
+                  </span>
+                  <div className="desc">
+                    <h3>Concepts</h3>
+                    <p>
+                      I am familiar with the concepts like OOP design patern and
+                      Test Driven Development.
+                    </p>
                   </div>
                 </div>
               </div>
