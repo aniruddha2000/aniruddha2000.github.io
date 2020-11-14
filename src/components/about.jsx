@@ -87,10 +87,10 @@ export default class About extends Component {
                   </div>
                 </div>
               </div>
-              {/* <div className="col-md-4 text-center animate-box">
+              <div className="col-md-4 text-center animate-box">
                 <div className="services color-3">
                   <span className="icon">
-                    <i className="icon-phone3" />
+                    <i className="icon-bulb" />
                   </span>
                   <div className="desc">
                     <h3>Data Structures & Algorithms</h3>
@@ -100,7 +100,7 @@ export default class About extends Component {
                     </p>
                   </div>
                 </div>
-              </div> */}
+              </div>
               {/* <div className="col-md-4 text-center animate-box">
                 <div className="services color-5">
                   <span className="icon">
