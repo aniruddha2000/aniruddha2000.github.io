@@ -18,17 +18,17 @@ export default class Timeline extends Component {
             <div className="row">
               <div className="col-md-12">
                 <div className="timeline-centered">
-                  {/* <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                  <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                     <div className="timeline-entry-inner">
-                      <div className="timeline-icon color-3">
+                      <div className="timeline-icon color-6">
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Internship at Juniper <span>2019-present</span></h2>
-                        <p>I recently have joined the Juniper Networs as a Software Developer-Intern in the DevOps team. My major part of the work has been into the field of creating sustainable and flexible CI/CD (Continuous Integration & Continuous Development) pipelines which enables developers at Juniper to do rapid development. I am also exploring the role of container technology like Docker and container-orchrastation technologies like K8s, Swarm to create industry standard production environments.</p>
+                        <h2>B.tech from MAKAUT <span>2021-2023</span></h2>
+                        <p>I am pursuing my btech from BPPIMT.</p>
                       </div>
                     </div>
-                  </article> */}
+                  </article>
                   <article
                     className="timeline-entry animate-box"
                     data-animate-effect="fadeInTop"
@@ -42,8 +42,8 @@ export default class Timeline extends Component {
                           Diploma at WBSCTE<span>2017-2020</span>
                         </h2>
                         <p>
-                          I am pursuing my diploma studies in GNIT(Electronics
-                          and Telecommunication Technology).
+                          I have completed my diploma from GNIT in Electronics
+                          and Telecommunication Technology.
                         </p>
                       </div>
                     </div>
