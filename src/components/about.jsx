@@ -17,12 +17,14 @@ export default class About extends Component {
                       <span className="heading-meta">About Us</span>
                       <h2 className="colorlib-heading">Who Am I?</h2>
                       <p>
-                        I am a Diploma student from Guru Nanak Institute of
-                        Technology.I love exploring new technologies.
+                        I am a B.Tech student from Kolkata studying at B.P. Poddar Institute Of Management
+                        And Technology. I love exploring new technologies.
                       </p>
                       <p>
-                        I have started reflecting my ideas and thoughts through
-                        the wordpress recently.
+                      I am a self-learner, always interested in new ideas and the application of technology.
+                      I have always been in love with computers. Luckily I got to use a computer ever since
+                      I was a kid. Then I started my journey as an open source developer at Mozilla and right
+                      now I am contributing to various open source project.
                       </p>
                     </div>
                   </div>
