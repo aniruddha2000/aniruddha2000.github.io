@@ -18,14 +18,22 @@ export default class Timeline extends Component {
             <div className="row">
               <div className="col-md-12">
                 <div className="timeline-centered">
-                  <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                  <article
+                    className="timeline-entry animate-box"
+                    data-animate-effect="fadeInLeft"
+                  >
                     <div className="timeline-entry-inner">
                       <div className="timeline-icon color-6">
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>B.tech from MAKAUT <span>2020-2023</span></h2>
-                        <p>I am pursuing my btech from BPPIMT.</p>
+                        <h2>
+                          B.tech from MAKAUT <span>2020-2023</span>
+                        </h2>
+                        <p>
+                          I am pursuing my btech in Computer Science and
+                          Engineering from BPPIMT.
+                        </p>
                       </div>
                     </div>
                   </article>
