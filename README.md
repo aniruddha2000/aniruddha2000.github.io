@@ -5,8 +5,9 @@
   - navigate to folder `portfolio-app`
   - run `npm install` to instal node modules
   - run `npm start` to start the service on `localhost:3000`
+  - run `npm run deploy` to deploy in github pages
 
-##### deployed app : https://dbarochiya.github.io/me/
+##### deployed app : https://aniruddha2000.github.io/aniruddhabasak
 
 
 This website is forked and build upon the website by Dhruv Barochiya
