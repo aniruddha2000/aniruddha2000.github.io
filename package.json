@@ -2,13 +2,15 @@
   "name": "portfolio-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://aniruddha2000.github.io/aniruddhabasak",
+  "homepage": "https://aniruddha2000.github.io/",
   "dependencies": {
-    "react": "^16.8.3",
-    "react-dom": "^16.8.3",
-    "react-scripts": "^3.4.1",
+    "@react-pdf/renderer": "^2.1.1",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0",
+    "react-router-dom": "6.3.0",
+    "react-scripts": "^5.0.0",
     "travis": "^0.1.1",
-    "yarn": "^1.13.0"
+    "yarn": "^1.22.18"
   },
   "scripts": {
     "start": "react-scripts start",
