@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import { Link } from "react-router-dom";
 
 export default class Introduction extends Component {
   render() {
@@ -24,7 +23,15 @@ export default class Introduction extends Component {
                             I'm Aniruddha
                           </h1>
                           <p>
-                            <Link to="/resume">View Cv</Link>
+                            <a
+                              className="btn btn-primary btn-learn"
+                              href="https://drive.google.com/file/d/1Xk22Qj9vZJV6MDUbjETh8AKDCxJveJ-5/view?usp=sharing"
+                              target="_blank"
+                              rel="noopener noreferrer"
+                            >
+                              View CV
+                              <i className="icon-download4" />
+                            </a>
                           </p>
                         </div>
                       </div>
