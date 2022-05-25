@@ -1,0 +1,13 @@
+{
+    "name": "Aniruddha Basak",
+    "display": "standalone",
+    "background_color": "#fff",
+    "theme_color": "#fff",
+    "description": "Hey there!",
+    "icons": [
+      {
+        "src": "favicon.svg",
+        "type": "image/png"
+      }
+    ]
+  }
